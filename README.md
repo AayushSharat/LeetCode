@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/AayushSharat/LeetCode/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/AayushSharat/LeetCode/tree/master/0169-majority-element) |
+| [0389-find-the-difference](https://github.com/AayushSharat/LeetCode/tree/master/0389-find-the-difference) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/AayushSharat/LeetCode/tree/master/0169-majority-element) |
+| [0389-find-the-difference](https://github.com/AayushSharat/LeetCode/tree/master/0389-find-the-difference) |
 ## Counting
 |  |
 | ------- |
@@ -41,4 +43,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/AayushSharat/LeetCode/tree/master/0136-single-number) |
+| [0389-find-the-difference](https://github.com/AayushSharat/LeetCode/tree/master/0389-find-the-difference) |
+## String
+|  |
+| ------- |
+| [0389-find-the-difference](https://github.com/AayushSharat/LeetCode/tree/master/0389-find-the-difference) |
 <!---LeetCode Topics End-->
