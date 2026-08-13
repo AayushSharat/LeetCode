@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/AayushSharat/LeetCode/tree/master/0001-two-sum) |
+| [0035-search-insert-position](https://github.com/AayushSharat/LeetCode/tree/master/0035-search-insert-position) |
 | [0169-majority-element](https://github.com/AayushSharat/LeetCode/tree/master/0169-majority-element) |
 ## Hash Table
 |  |
@@ -31,4 +32,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/AayushSharat/LeetCode/tree/master/0009-palindrome-number) |
+## Binary Search
+|  |
+| ------- |
+| [0035-search-insert-position](https://github.com/AayushSharat/LeetCode/tree/master/0035-search-insert-position) |
 <!---LeetCode Topics End-->
